@@ -5,3 +5,6 @@ staple
 shark
 misdirection
 mouse
+hello
+testing
+terminal
